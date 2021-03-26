@@ -1,0 +1,27 @@
+{
+  "corporative-email": {
+    "name": "Name",
+    "surname": "Surname",
+    "course": 3,
+    "faculty": "Faculty",
+    "specialty": "Specialty",
+    "subjects": {
+      "subject-id": {
+        "name": "Subject Name",
+        "teachers": [
+          "Teacher1",
+          "Teacher2"
+        ],
+        "assignments": [
+          {
+            "name": "Assignment Name",
+            "status": "Assignment Status",
+            "mark": 10,
+            "deadline": "Deadline Date",
+            "edit-date": "Last Edit Date"
+          }
+        ]
+      }
+    }
+  }
+}
